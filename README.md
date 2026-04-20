@@ -38,4 +38,4 @@
 <br clear="both">
 
 ###
-![snake animation](https://github.com/amhml2001/amhml2001/blob/output/github-contribution-grid-snake2.svg)
+
