@@ -1,15 +1,17 @@
-<h2 align="left">Hi 👋! My name is Amanda and I'm a ABAP Developer, from Brazil</h2>
+<h1 data-importer="text" align="left">My name is Amanda and I'm a ABAP Developer, from Brazil</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amhml2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&cache_seconds=1800&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amhml2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Amhml2001/Amhml2001/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Amhml2001/Amhml2001/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+<br clear="both">
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/Amhml2001/Amhml2001/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -38,4 +40,11 @@
 <br clear="both">
 
 ###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 
