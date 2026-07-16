@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Amhml2001/Amhml2001/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Amhml2001/Amhml2001/snake.svg" alt="Snake animation" />
 
 ###
 
